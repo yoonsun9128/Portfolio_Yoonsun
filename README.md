@@ -48,7 +48,7 @@
         - Sqlite3 | PostgreSQL | AWS S3
     - 배포
         - Docker | AWS EC2 | AWS Route53 | Gunicorn | Nginx | cloudFront
-- 노션 링크 : <a href="https://bitter-trunk-e9a.notion.site/A1-c8728c9326d147d3b8dae30a8eba570c">트러블 슈팅 및 사용자 피드백 모음</a>
+- 노션 링크 : <a href="https://bitter-trunk-e9a.notion.site/Troubleshooting-6331c7ce216f428ba58b0d15c9a10e3d">트러블 슈팅 및 사용자 피드백 모음</a>
 - 회고 및 느낀점
     - 프로그램을 만들때는 코드를 활용적으로 작성하는것도 중요하지만, 사용자가 이용했을시 불편한 점이 없도록 만드는게 중요하다는 생각이 들었다.
     - 처음으로 배포하는 과정을 지켜보며, 로컬 환경과 배포 환경이 서로가 다른 부분을 확인하고 동일하게 맞춰줘야하는 부분을 체크해가며 시도해야겠다는 생각이 들었다.
