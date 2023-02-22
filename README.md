@@ -22,7 +22,6 @@
         4. 마지막 캠프 기간동안 배운 CRUD 과정을 다시 되돌아 보기 위한 서비스
 
 - 프로젝트 일정 : 22.12.02 ~ 22.12.28 (4주)
-- 배포 사이트 :  https://www.thumbookfe.ml/
 - Git Link : <a href="https://github.com/yoonsun9128/Book_Space">프로젝트 내용</a>
 
 - 팀 프로젝트
