@@ -75,7 +75,9 @@
         1. 머신러닝 이용한 유화제작 시스템
             -> 사용자가 합치고 싶은 사진을 업로드 하면 output_image로 두 사진이 섞인 이미지 보여주기
         2. 좋아요 기능
-        
+        3. 게시물 작성
+        2. 좋아요 기능
+       
 - 사용 기술
     - 백엔드
         - Python | Django | Django REST framework | Djnago Rest framework simple-jwt
