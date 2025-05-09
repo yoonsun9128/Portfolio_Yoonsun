@@ -11,7 +11,22 @@
 - Github: https://github.com/yoonsun9128
 
 ---
+## 📂 Work Experience & Projects
+### 1. WIN_FMS
+- 기간 : 2023.05 ~ 2023.10 (5개월)
+- 나의 활동
+        * 백엔드/프론트엔드 개발자로 참여
+        * Excel/PDF 변환 기능 구현 및 최적화
+        * React 및 Redux를 활용한 다중 탭 상태 관리 및 데이터 공유
+        * 대량 데이터 변환 시 로딩 처리 적용으로 UX 개선 및 성능 최적화
+        * 상태 관리 상황에 맞는 적절한 관리 기법 적용 (useState 외 다양한 방법 활용 ex.Zustand를)
+- Site Link : 
 
+### 2. OZO_인천
+- 기간 : 2023.11 ~ 2024.04 (6개월)
+- 나의 활동
+        * 백엔드/프론트엔드 개발자로 참여하여, YOLO 모델을 활용해 객체 인식 모델을 학습시키고 적용
+---
 ## 📂 My Project
 ### 1. ThumBook
 - 목적
