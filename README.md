@@ -27,7 +27,7 @@
 		- 대량 데이터 변환 시 로딩 처리 적용으로 UX 개선 및 성능 최적화
 		- 상태 관리 상황에 맞는 적절한 관리 기법 적용 (useState 외 다양한 방법 활용 ex.Zustand를)
   
-- Site Link: [WIN_SAFETY](https://winsafety.co.kr/login)
+- Site Link: [WIN_SAFETY](https://winsafety.co.kr/login){:target="_blank"}
   > 본 프로젝트는 로그인 후 실제 서비스 기능을 경험할 수 있으며,  
   > 개인정보 보호 및 보안상의 이유로 로그인 페이지까지만 접속이 가능합니다.
 
@@ -48,7 +48,7 @@
 		- 단일 클래스 학습에도 방대한 데이터셋이 필요함을 인지
 		- React는 브라우저에서 실행되며, Redis는 TCP 프로토콜 기반 서버 DB이므로 직접 연결 불가능함을 경험
   
-- Site Link: [OZO_PROTECT](https://ozo.gscaltex.com/login)
+- Site Link: [OZO_PROTECT](https://ozo.gscaltex.com/login){:target="_blank"}
   > 본 프로젝트는 로그인 후 실제 서비스 기능을 경험할 수 있으며,  
   > 개인정보 보호 및 보안상의 이유로 로그인 페이지까지만 접속이 가능합니다.
 
